@@ -8,7 +8,7 @@ include('sql_style.html'); //gives background color
 //To display content of sql table 
 
 $username="prashiksha";  
-$password="jainjain";  
+$password=".....";  
 $hostname = "localhost";  
 $database = "dbname";
 //connection string with database  
